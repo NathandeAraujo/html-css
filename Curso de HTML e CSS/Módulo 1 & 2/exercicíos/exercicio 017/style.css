@@ -1,0 +1,25 @@
+	body {
+		background-color: #403d39;
+		font-family: Arial, Helvetica, sans-serif;
+		font-size: 20 px;
+	}	
+
+	h1 {
+		color: white;
+		background-color: #252422;
+	}
+
+	h2 {
+		color: white;
+	}
+
+	p {
+		text-align: justify;
+		color: white;
+	}
+
+	img {
+		width: 40px;
+		margin-left: auto;
+		margin-right: auto;	
+	}
